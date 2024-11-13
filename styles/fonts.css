@@ -1,0 +1,17 @@
+/* Roboto Regular */
+@font-face {
+  font-family: "Roboto Regular";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+
+/* Roboto Medium */
+@font-face {
+  font-family: "Roboto Medium";
+  src: url("../fonts/Roboto/Roboto-Medium.ttf") format("truetype");
+}
+
+/* Archivo Black */
+@font-face {
+  font-family: "Archivo Black";
+  src: url("../fonts/Archivo/Archivo-Black.ttf") format("truetype");
+}

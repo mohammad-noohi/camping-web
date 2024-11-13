@@ -1,0 +1,13 @@
+:root {
+  /* Colors */
+  --orange: #e76f51;
+  --white: #fff;
+  --gray: #d2d2d2;
+  --dark: #3b3735;
+  --app-bg : #FAF4F2;
+
+  /* Fonts Variables */
+  --primary-font-reg: "Roboto Regular", Arial, Helvetica, sans-serif;
+  --primary-font-med: "Roboto Medium", Arial, Helvetica, sans-serif;
+  --secondary-font-black: "Archivo Black", Arial, Helvetica, sans-serif;
+}
